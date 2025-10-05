@@ -1,0 +1,41 @@
+{
+  "name": "live-streaming-backend",
+  "version": "1.0.0",
+  "description": "Production-ready backend for the Live Streaming Platform.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "seed": "node src/scripts/seed-db.js"
+  },
+  "keywords": [
+    "webrtc",
+    "socket.io",
+    "express",
+    "nodejs",
+    "mern"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bullmq": "^5.8.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.3.1",
+    "joi": "^17.13.1",
+    "jsonwebtoken": "^9.0.2",
+    "livekit-server-sdk": "^2.14.0",
+    "mongoose": "^8.4.1",
+    "node-cron": "^3.0.3",
+    "peer": "^1.0.2",
+    "socket.io": "^4.7.5",
+    "uuid": "^9.0.1",
+    "winston": "^3.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
