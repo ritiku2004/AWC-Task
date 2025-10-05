@@ -6,11 +6,11 @@ AWC is a production-ready, real-time collaboration platform that combines video 
 ## Live Demo / Screenshots
 
 ![Login](Images/Login.png)
-[](Images/WelcomePage.png)
-[](Images/CameraInteraction.png)
-[](Images/LiveChat.png)
-[](Images/ResponsiveLayout.png)
-[](Images/ResponsiveBoard.png)
+![Welcome](Images/WelcomePage.png)
+![Room](Images/CameraInteraction.png)
+![Chat](Images/LiveChat.png)
+![Responsive](Images/ResponsiveLayout.png)
+![WhiteBoard](Images/ResponsiveBoard.png)
 
 > Note: Replace the screenshots above with actual conference/whiteboard screenshots for your marketing or README improvements. The assets referenced exist under `Frontend/public/assets`.
 
