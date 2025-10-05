@@ -5,12 +5,12 @@ AWC is a production-ready, real-time collaboration platform that combines video 
 
 ## Live Demo / Screenshots
 
-(Images\Login.png)
-(Images\WelcomePage.png)
-(Images\CameraInteraction.png)
-(Images\LiveChat.png)
-(Images\ResponsiveLayout.png)
-(Images\ResponsiveBoard.png)
+[](Images\Login.png)
+[](Images\WelcomePage.png)
+[](Images\CameraInteraction.png)
+[](Images\LiveChat.png)
+[](Images\ResponsiveLayout.png)
+[](Images\ResponsiveBoard.png)
 
 > Note: Replace the screenshots above with actual conference/whiteboard screenshots for your marketing or README improvements. The assets referenced exist under `Frontend/public/assets`.
 
@@ -210,14 +210,4 @@ Contributions are welcome. Suggested workflow:
 
 ## License
 
-This project is open-source. Add your chosen license file (e.g., MIT) in the root.
-
-
----
-
-If you'd like, I can:
-- Add actual screenshot images to `Frontend/public/assets` and reference them in this README.
-- Generate a small architecture SVG and include it in the README.
-- Add a quick TL;DR section or one-page marketing description for README front page.
-
-Which extra would you like next?
+This project is open-source.
